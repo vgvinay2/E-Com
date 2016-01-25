@@ -2,4 +2,3 @@ log/
 tmp/
 .idea/
 .idea/e-com.iml
-Gemfile.lock
